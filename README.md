@@ -1,12 +1,12 @@
-# Push_swap-42
-The Push swap project is a very simple and a highly straightforward algorithm project:
-data must be sorted.
+# Push_swap 42
 
+The Push swap project is a very simple and a highly straightforward algorithm project: data must be sorted.
+
+## Description
 The goal? Write a program in C called push_swap which calculates and displays
-on the standard output the smallest program, made of Push swap language instructions,
-that sorts the integers received as arguments.
+on the standard output the smallest program, made of Push swap language instructions, that sorts the integers received as arguments.
 
-The rules
+## The rules
 • You have 2 stacks named a and b.
 • At the beginning:
 ◦ The stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.
